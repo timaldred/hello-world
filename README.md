@@ -1,3 +1,3 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
-And this is a file with a bit about me.
+# I'm updating this file to take out the standard text and include something about myself
+Hi, I'm Tim Aldred and I'm part of Code Lancashire's Cohort 9.
